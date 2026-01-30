@@ -1,6 +1,6 @@
-# Hi, I'm Sudarshan SK 👋
+# Hi, I'm Sudarshan S 👋
 
-**Full-stack developer from Bengaluru, India** building local-first AI tools and community products.
+**Agentic developer from Bengaluru, India** building local-first AI tools and community products.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,9 +17,9 @@
 
 🔍 **[Moment Desktop](https://github.com/SuperMonstor/moment-desktop)** — Local-first video search using CLIP embeddings. Search your footage like Google, everything runs on-device. *Tauri + React + Qdrant*
 
-🏘️ **[Townsquare](https://github.com/SuperMonstor/townsquare25)** — Community app for local neighborhoods. *Flutter/Dart*
+🏘️ **[Townsquare](https://github.com/SuperMonstor/townsquare25)** — Messaging app that spreads organically network effects. *Flutter/Dart*
 
-🗺️ **[Bengaluru Maps](https://github.com/SuperMonstor/bengaluru_maps_prod)** — Interactive map experience for Bengaluru. *TypeScript*
+🗺️ **[Bengaluru Maps](https://github.com/SuperMonstor/bengaluru_maps_prod)** — Share curated locations in your city. *TypeScript*
 
 ✂️ **[Auto-Edit](https://github.com/SuperMonstor/auto-edit)** — Automated video editing pipeline. *Python*
 
