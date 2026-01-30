@@ -11,55 +11,35 @@
 
 ---
 
-## 🎬 What I'm Building
+## 🎬 Projects
 
-### Active Projects
-
-🔍 **[Moment Desktop](https://github.com/SuperMonstor/moment-desktop)** — Local-first video search using CLIP embeddings. Search your footage like Google, everything runs on-device. *Tauri + React + Qdrant*
-
-🏘️ **[Townsquare](https://github.com/SuperMonstor/townsquare25)** — Messaging app that spreads organically network effects. *Flutter/Dart*
-
-🗺️ **[Bengaluru Maps](https://github.com/SuperMonstor/bengaluru_maps_prod)** — Share curated locations in your city. *TypeScript*
-
-✂️ **[Auto-Edit](https://github.com/SuperMonstor/auto-edit)** — Automated video editing pipeline. *Python*
-
-🧠 **[Lara Tasks](https://github.com/SuperMonstor/lara-tasks)** — WhatsApp memory assistant with vector search. Text it to store memories, ask questions to recall them. *TypeScript + Supabase + OpenAI*
-
-🎙️ **[Relay Voice](https://github.com/SuperMonstor/relay-voice)** — Voice interaction tools
-
-📱 **[Short Content Assist](https://github.com/SuperMonstor/short-content-assist)** — AI-powered short-form content analysis. *Python*
-
-🎬 **[Video Analysis App](https://github.com/SuperMonstor/video-analysis-app)** — Actionable feedback to improve short-form content. Analyzes videos for hook, pacing, clarity, visuals, audio, and subtitles. *Next.js + FastAPI + Gemini*
-
-🤝 **[GetIntroduced](https://github.com/SuperMonstor/getintroduced)** — Networking and introductions platform. *TypeScript*
-
-💌 **[Penpals Weekly](https://github.com/SuperMonstor/penpals-weekly)** — Slow, anonymous penpal platform for thoughtful connections through letters. *Next.js + Supabase*
-
-🏥 **[digiMD](https://github.com/SuperMonstor/digiMD)** — Native Android app enabling patients to consult with doctors off-hours. *Android*
-
-💰 **[Sudarshan Nation Token](https://github.com/SuperMonstor/Sudarshan-Nation-Token)** — Custom cryptocurrency token launched on Solana blockchain. *Solana*
-
-🪞 **[Smart Mirror](https://github.com/SuperMonstor/Smart_Mirror_MM)** — IoT smart mirror with personalized widgets (calendar, weather, news) and facial recognition. *Python + OpenCV*
-
-🌾 **[Crop Yield ML](https://github.com/SuperMonstor/Crop-Yield-ML)** — ML model predicting crop yield from satellite imagery. *Python + ML*
-
-🎮 **[Cortyceps](https://github.com/SuperMonstor/Cortyceps)** — First-person parkour zombie shooter. *Unreal Engine 4*
-
-🤣 **[Yo Mama WhatsApp Bot](https://github.com/SuperMonstor/yo-mama-whatsapp-chatbot)** — WhatsApp bot that generates yo-mama jokes on demand. *Python + Flask*
-
-🔍 **[Moment Minimal](https://github.com/SuperMonstor/moment-minimal)** — Stripped-down validation of the Moment video search pipeline with clear metrics. *Node.js + FFmpeg + Qdrant*
+- **2026** — [Moment Desktop](https://github.com/SuperMonstor/moment-desktop) — Local-first video search using CLIP embeddings
+- **2026** — [Moment Minimal](https://github.com/SuperMonstor/moment-minimal) — Stripped-down validation of the Moment video search pipeline
+- **2025** — [Relay Voice](https://github.com/SuperMonstor/relay-voice) — Voice interaction tools
+- **2025** — [Townsquare](https://github.com/SuperMonstor/townsquare25) — Messaging app that spreads organically with network effects
+- **2025** — [Auto-Edit](https://github.com/SuperMonstor/auto-edit) — Automated video editing pipeline
+- **2025** — [Video Analysis App](https://github.com/SuperMonstor/video-analysis-app) — AI-powered feedback to improve short-form content
+- **2025** — [Lara Tasks](https://github.com/SuperMonstor/lara-tasks) — WhatsApp memory assistant with vector search
+- **2025** — [Short Content Assist](https://github.com/SuperMonstor/short-content-assist) — AI-powered short-form content analysis
+- **2025** — [Penpals Weekly](https://github.com/SuperMonstor/penpals-weekly) — Anonymous penpal platform for thoughtful connections
+- **2025** — [GetIntroduced](https://github.com/SuperMonstor/getintroduced) — Networking and introductions platform
+- **2025** — [Bengaluru Maps](https://github.com/SuperMonstor/bengaluru_maps_prod) — Share curated locations in your city
+- **2024** — [Yo Mama WhatsApp Bot](https://github.com/SuperMonstor/yo-mama-whatsapp-chatbot) — WhatsApp bot that generates yo-mama jokes
+- **2022** — [Sudarshan Nation Token](https://github.com/SuperMonstor/Sudarshan-Nation-Token) — Custom cryptocurrency token on Solana
+- **2020** — [digiMD](https://github.com/SuperMonstor/digiMD) — Android app enabling patients to consult doctors off-hours
+- **2020** — [Cortyceps](https://github.com/SuperMonstor/Cortyceps) — First-person parkour zombie shooter in Unreal Engine 4
+- **2019** — [Smart Mirror](https://github.com/SuperMonstor/Smart_Mirror_MM) — IoT smart mirror with facial recognition and personalized widgets
+- **2019** — [Crop Yield ML](https://github.com/SuperMonstor/Crop-Yield-ML) — ML model predicting crop yield from satellite imagery
 
 ---
 
-### Tools & Templates
+## 🛠️ Building Philosophy
 
-📝 **[Markdown Blog](https://github.com/SuperMonstor/markdown-blog)** — Static blog template with Next.js 14 + MDX + Tailwind
-
-📊 **[MERN Dashboard](https://github.com/SuperMonstor/mern-dashboard-template)** — Full-stack dashboard starter
-
-🔗 **[Next + Prisma + Supabase](https://github.com/SuperMonstor/next-prisma-supabase-template)** — Modern stack template
-
-💬 **[WhatsApp AI Bot](https://github.com/SuperMonstor/whatsapp-ai-bot)** — AI-powered WhatsApp chatbot. *Python*
+- Build something useful and make money selling it
+- Get products in customers' hands ASAP and iterate — time spent building in isolation should be minimal
+- Rapid feedback cycles over perfect launches
+- Product first
+- Agent orchestration + parallelisation (grouping tasks and review steps together as much as possible) + verifiability
 
 ---
 
