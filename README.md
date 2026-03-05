@@ -1,6 +1,6 @@
 # Hi, I'm Sudarshan S 👋
 
-**Agentic developer from Bengaluru, India** building local-first AI tools and community products.
+**Vibin.**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,28 +30,6 @@
 - **2020** — [Cortyceps](https://github.com/SuperMonstor/Cortyceps) — First-person parkour zombie shooter in Unreal Engine 4
 - **2019** — [Smart Mirror](https://github.com/SuperMonstor/Smart_Mirror_MM) — IoT smart mirror with facial recognition and personalized widgets
 - **2019** — [Crop Yield ML](https://github.com/SuperMonstor/Crop-Yield-ML) — ML model predicting crop yield from satellite imagery
-
----
-
-## 🛠️ Building Philosophy
-
-- Build something useful and make money selling it
-- Get products in customers' hands ASAP and iterate — time spent building in isolation should be minimal
-- Rapid feedback cycles over perfect launches
-- Product first
-- Agent orchestration + parallelisation (grouping tasks and review steps together as much as possible) + verifiability
-
----
-
-## 💼 Career
-
-- One of the **first 3 employees at digiMD**, working as a full-stack Android developer
-- Started a **smart mirror business** in college (shut down due to COVID)
-- Pivoted into a **premium digital agency**, scaling to six figures across US, UK, and SEA
-- Left to start a **consultancy helping agency founders** scale their businesses
-- Built startups including **Townsquare** (city-based community platform) and **Twing** (legal document management)
-- Helped **30+ early-stage founders** with early marketing, product strategy, and MVP execution
-
 ---
 
 ## 📫 Connect
@@ -60,8 +38,4 @@
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6B6B?style=flat)](https://sudarshanonstartups.substack.com/?utm_campaign=profile_chips)
 [![Twitter](https://img.shields.io/badge/Twitter-@realsudarshansk-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/realsudarshansk)
 [![Instagram](https://img.shields.io/badge/Instagram-@realsudarshansk-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/realsudarshansk)
-
----
-
-*Building tools I want to use.*
 
